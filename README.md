@@ -1,6 +1,6 @@
 # tuwat
 
-
+![logo](https://tuwat.uber.space/tuwat_logo.png)
 
 This is the attempt to start a new todo tool, although there are actually already some with different approaches. I have tried many different solutions over a long period of time, both for myself and for different collectives and working groups that try to organize themselves in different ways. Unfortunately I was never really satisfied with solutions in Kanban or Scrum Style.
 
